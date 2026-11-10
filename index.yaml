@@ -1,0 +1,21 @@
+# CZ方案文件库
+version: 1
+updated: "2026-11-10"
+root: "G:/soft/CZ方案"
+
+items:
+  - path: CS35发动机电气接口控制文件.md
+    title: CS35发动机电气接口控制文件
+    tags: [CS35, 发动机, ECU, ARINC429, MIL-STD-1553B, 电气接口]
+    source: 源文件/（普通商秘）CS35电气系统接口控制文件（含通讯）(1).docx
+    obsidian: C:/Users/alu/Documents/产品数据/03_整机与机巢/CS35发动机电气接口控制文件.md
+
+  - path: 工程与工作说明/工程说明.md
+    title: CS35 工程说明
+    tags: [CS35, ZeroOneX9, ARINC429, 发动机, 工程]
+    source: cursor/cs35-arinc429-6377@9bbf8f64
+
+  - path: 工程与工作说明/工作说明.md
+    title: CS35 工作说明
+    tags: [CS35, ZeroOneX9, 编译, 参数, 操作]
+    source: cursor/cs35-arinc429-6377@9bbf8f64
